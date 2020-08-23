@@ -1,2 +1,2 @@
 # games50
-Cs50 assignment1
+Cs50 assignment0
